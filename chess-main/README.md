@@ -2,9 +2,9 @@
  A simple multiplayer online chess game
 
 # Developed by 
- Anvith Krishna N 
- Prajwal N
- Shrivatsa R.S
+ Anvith Krishna N ,
+ Prajwal N ,
+ Shrivatsa R.S,
  Dhananjaya H
 
  # Contact Us 
