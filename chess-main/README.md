@@ -11,5 +11,5 @@
   Linked In - www.linkedin.com/in/anvith-krishna-088405229
   Email - anvithkrishna01@gmail.com
  
- \***** IF ANY ERRORS *****\
- \***** THANK YOU *****\
+ ***** IF ANY ERRORS *****
+ ***** THANK YOU *****
