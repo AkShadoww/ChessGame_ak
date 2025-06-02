@@ -1,4 +1,4 @@
-# chess-site
+# Chess-Site
  A simple multiplayer online chess game
 
 # Developed by 
